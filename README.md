@@ -79,5 +79,3 @@ You can paste this directly into [Desmos](https://www.desmos.com/calculator) to 
 
 
 
-The final fitted curve equation is:
-
